@@ -3,6 +3,7 @@ title: "Learner 框架 的具體應用案例"
 datePublished: Sun Dec 22 2024 14:25:47 GMT+0000 (Coordinated Universal Time)
 cuid: cm4zpaqz8001v09ib77adhasu
 slug: learner
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FHnnjk1Yj7Y/upload/5c0075ce4858b06d46a3558e18c68416.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1736004990501/3b762fb3-3652-4133-8f75-c995aed03b4b.png
 
 ---
